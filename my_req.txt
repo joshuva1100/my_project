@@ -3,4 +3,7 @@
 
 ### i was edited this file 
 
-# the third chnage 
+# the third change 
+
+pythin =3.13.9
+numpy=2.24
